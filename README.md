@@ -14,3 +14,4 @@ If you have any questions, please pose them to the Challenge Organizers as a new
 https://github.com/orgs/microlensing-data-challenge/teams/challenge-organizer/discussions
 
 For an introduction to the application of the public microlensing modeling software packages PyLIMA, MulensModel and muLAn to this challenge, please see the excellent python notebook tutorial by Tiffany Meshkat:
+https://github.com/microlensing-data-challenge/start_here/blob/master/challenge_notebook_tutorial.tar
